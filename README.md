@@ -8,7 +8,7 @@ As you will have understood, the objective is above all to see each step of crea
 
 ### Getting started
 
-- Git clone this [project](https://github.com/WildCodeSchool/workshop-js-musicAPI)
+- Git clone this [project](https://github.com/Brian-boudrioux/workshop-js-musicAPI)
 - Run `npm install`
 - Setup your .env file
 - Run `npm run db:dump`
