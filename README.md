@@ -240,11 +240,3 @@ module.exports = router;
 - Exports your router
 
 This `router.js` file is imported in the `src/config/server.js` file to apply the routes to our server adding the `/api` endpoint.
-
-
-# Next step : Monorepo 
-
-Before continuing with the next step where we will see the implementation of this API within the Monorepo framework, I advise you to take an overview to analyze your code and be sure to understand its progress.
-
-[Setting up an API with Monorepo](./MORE.md)
-
