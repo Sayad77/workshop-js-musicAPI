@@ -14,4 +14,5 @@ title: API - Express
 description: "How to set up a complete CRUD within an API developed with express"
 show_clone: false
 show_toc: true
+footer: false
 lang: en
