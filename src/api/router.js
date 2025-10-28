@@ -5,7 +5,7 @@ const router = Router(); // Initialize a new router
 // Import your controller middlewares
 const albums = require("./albums/controller");
 
-router.get("/albums", albums.getAll);
+router.get("/tracks", albums.getAll);
 router.get("/albums/:id", albums.getOne);
 router.get("/albums/:id/tracks", albums.getTracksByAlbumId);
 router.post("/albums", albums.postAlbums);
